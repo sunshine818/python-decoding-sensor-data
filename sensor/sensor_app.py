@@ -6,7 +6,7 @@ from datetime import date, datetime
 from temperature_info import TemperatureData
 from humidity_info import HumidityData
 from statistics import mean
-from particle_app_info import ParticleData
+from particle_count_info import ParticleData
 
 ##############################
 # Do not remove these two lines
